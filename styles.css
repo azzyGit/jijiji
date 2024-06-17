@@ -37,7 +37,7 @@ body {
     font-size: 50px;
     text-align: center;
     position: absolute;
-    bottom: 80px; /* Ajuste para manter o título mais centralizado */
+    bottom: 260px; /* Ajuste para manter o título mais centralizado */
     left: 0;
     right: 0;
 }
